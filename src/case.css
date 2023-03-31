@@ -1,0 +1,25 @@
+.dark{
+    background-color:black;
+    color: white;
+    text-align: center;
+    width: 1200px;
+    height: 900px;
+}
+.lite{
+    background-color: gainsboro;
+    color: black;
+    text-align: center;
+
+    width: 1200px;
+    height: 900px;
+}
+
+.cls{
+    width: 350px;
+    height: 100px;
+    background-color: gray;
+    color:white;
+    font-size: x-large;
+}
+
+

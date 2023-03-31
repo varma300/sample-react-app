@@ -3,8 +3,6 @@
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
-  background-color:gray ;
-  color: white;
 }
 
 .logo {
@@ -41,20 +39,4 @@
 
 .read-the-docs {
   color: #888;
-}
-
-.ip{
-  height:300px;
-  width: 600px;
-  background-color: #b8b4b4;
-  color: red;
-  font-size: x-large;
-}
-body{
-  background-color:rgb(63, 59, 59);
-  
-}
-.btn{
-  background-color: rgb(29, 29, 45);
-  color: white;
 }
